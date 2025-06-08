@@ -39,7 +39,7 @@ A simple, modern Bookmark Manager built with **FastAPI**, **SQLAlchemy**, and **
 
    ```bash
    git clone https://github.com/gokudaisensei/cisogenie-bookmark.git
-   cd bookmark
+   cd cisogenie-bookmark
    ```
 
 2. **Create a virtual environment (recommended):**
